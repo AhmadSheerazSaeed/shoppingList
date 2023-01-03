@@ -47,6 +47,7 @@ body {
 .shoppingItem {
   width: 100%;
   height: 35px;
+  border: 1px solid red;
   font-size: 2rem;
   display: flex;
   gap: 0.5rem;

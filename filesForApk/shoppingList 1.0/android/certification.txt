@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the shoppingList 1.0
+---------------------------------------------------
+
+app_name - 						shoppingList
+app_alias - 					shoppinglist
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Nordrhein-Westfalen
+app_author_country - 			Germany
+app_password - 					hG5ZqtwnIr1e
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Tuesday 3rd of January 2023 09:35:29 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
